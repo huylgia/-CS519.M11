@@ -20,7 +20,6 @@ https://github.com/huylgia/CS519.M11.git
 </ul>
 
 ### Q3.2 - BẠN MONG ĐỢI HỌC VÀ LÀM ĐƯỢC GÌ SAU KHI HỌC XONG MÔN HỌC NÀY
-
 <ul>
   <li>Học được cách lập luận vấn đề một cách khoa học </li>
   <li>Viết được một bài báo có thể nộp các hội nghị có rank cao</li>
