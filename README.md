@@ -8,8 +8,14 @@ Sở thích: Xem phim, Hát, Nghe nhạc, Đá banh <br>
 Liên hệ: https://www.facebook.com/profile.php?id=100007828874693 <br>
 ### Q1.2: Phân nhóm
 Mã lớp: CS519.M11 <br>
-Nhóm trưởng: Võ Hoàng Thông - 18521462 <br>
-Link repos: 
+Họ và tên - MSSV:
+<ul>
+  <li>Võ Hoàng Thông - 18521462 </li>
+  <li>Lâm Gia Huy - 18520832</li>
+  <li>Nguyễn Ngân Linh - 18520989</li>
+   <li>Bùi Đào Gia Huy - 18520818</li>
+</ul>
+Link repos: https://github.com/thongvhoang/CS519.M11.git
 ### Q2.1 - TẠO TÀI KHOẢN GITHUB VÀ REPOSITORY
 https://github.com/huylgia/CS519.M11.git
 ### Q3.1 - VÌ SAO BẠN CHỌN MÔN HỌC NÀY
